@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Logging
+*.log
+
+# Media files
+*.mp4
+!test_ffmpeg.mp4
+
+# Temp files
+.temp_*
+.temp_concat_list.txt
